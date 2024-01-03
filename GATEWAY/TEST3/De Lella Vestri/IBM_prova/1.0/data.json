@@ -5,9 +5,9 @@
 	"results": [
 		{
             "id": 6,
-            "ts": "2024-01-03T14:26:16Z",
-            "traceId": "f79ce7655d34ae69",
-            "workflowInstanceId": "2.16.840.1.113883.2.9.2.10908.4.4.6.7459c31e2eabb38c73d41807f3fddcb677f401f06ef6847b14bb2af3f7074c42.a4430aa56f^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "ts": "2024-01-03T14:40:54Z",
+            "traceId": "8bce4a2ea002969c",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.10908.4.4.6.7459c31e2eabb38c73d41807f3fddcb677f401f06ef6847b14bb2af3f7074c42.1a225fcd39^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
             "files": [
                 "LDO_TestValidazione_6-1.pdf"
             ]

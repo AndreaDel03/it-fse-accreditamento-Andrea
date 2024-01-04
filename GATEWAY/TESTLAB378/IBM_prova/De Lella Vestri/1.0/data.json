@@ -1,0 +1,16 @@
+{ "appVendor": "De Lella Vestri",
+    "appID": "IBM_prova",
+    "appVersion": "1.0",
+    "email": "magiu2012@me.com",
+	"results": [
+		{
+            "id": 378,
+            "ts": "2024-01-04T10:45:59Z",
+            "traceId": "79d4adaf37c6426b",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.97bb3fc5bee3032679f4f07419e04af6375baafa17024527a98ede920c6812ed.a18d809d4e^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "LabTest378.xml"
+            ]
+        }
+]
+}

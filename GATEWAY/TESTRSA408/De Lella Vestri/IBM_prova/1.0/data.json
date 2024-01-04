@@ -1,0 +1,16 @@
+{ "appVendor": "De Lella Vestri",
+    "appID": "IBM_prova",
+    "appVersion": "1.0",
+    "email": "magiu2012@me.com",
+	"results": [
+		{
+            "id": 408,
+            "ts": "2024-01-03T14:17:38Z",
+            "traceId": "dd14ec85aa175c7b",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.3b90fc90c0^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "RSA_408.xml"
+            ]
+        }
+]
+}

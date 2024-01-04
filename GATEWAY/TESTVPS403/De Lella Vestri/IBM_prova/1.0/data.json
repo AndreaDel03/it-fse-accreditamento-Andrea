@@ -1,0 +1,16 @@
+{ "appVendor": "De Lella Vestri",
+    "appID": "IBM_prova",
+    "appVersion": "1.0",
+    "email": "magiu2012@me.com",
+	"results": [
+		{
+            "id": 403,
+            "ts": "2024-01-03T14:26:54Z",
+            "traceId": "58cc1532539bee32",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.46a41df0ab0514f11c0811056832c3225e06c8e11824f27c7e5517ca5cfc57fe.20b4852d3a^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "VPS_403.xml"
+            ]
+        }
+]
+}

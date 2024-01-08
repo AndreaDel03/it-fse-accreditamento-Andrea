@@ -1,0 +1,78 @@
+{ "appVendor": "De Lella Vestri",
+    "appID": "IBM_prova",
+    "appVersion": "1.0",
+    "email": "magiu2012@me.com",
+	"results": [
+		{
+            "id": 379,
+            "ts": "2024-01-03T14:32:58Z",
+            "traceId": "39c8d2dbeadab6e2",
+            "files": [
+                "LAB.xml"
+            ]
+        },
+
+        {
+            "id": 384,
+            "ts": "2024-01-03T14:32:58Z",
+            "traceId": "346f417588531d16",
+            "files": [
+                "LDO.xml"
+            ]
+        },
+
+        {
+            "id": 389,
+            "ts": "2024-01-03T14:32:58Z",
+            "traceId": "24da6a18c8dca3e8",
+            "files": [
+                "RAD.xml"
+            ]
+        },
+
+        {
+            "id": 394,
+            "ts": "2024-01-03T14:32:58Z",
+            "traceId": "2b9aeeeadc4f2058",
+            "files": [
+                "CERT_VACC.xml"
+            ]
+        },
+
+        {
+            "id": 399,
+            "ts": "2024-01-03T14:32:58Z",
+            "traceId": "68fc8bb907597598",
+            "files": [
+                "SING_VACC.xml"
+            ]
+        },
+
+        {
+            "id": 404,
+            "ts": "2024-01-03T14:32:58Z",
+            "traceId": "eb2836dea599bb61",
+            "files": [
+                "VPS.xml"
+            ]
+        },
+
+        {
+            "id": 409,
+            "ts": "2024-01-03T14:32:58Z",
+            "traceId": "236413bbeecbbb4b",
+            "files": [
+                "RSA.xml"
+            ]
+        },
+
+        {
+            "id": 414,
+            "ts": "2024-01-03T14:32:58Z",
+            "traceId": "b9f95747616224da",
+            "files": [
+                "PSS.xml"
+            ]
+        }       
+]
+}

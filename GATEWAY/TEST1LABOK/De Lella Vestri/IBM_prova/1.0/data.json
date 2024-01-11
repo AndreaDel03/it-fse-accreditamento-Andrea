@@ -4,10 +4,10 @@
     "email": "magiu2012@me.com",
 	"results": [
 		{
-            "id": 192,
+            "id": 377,
             "ts": "2024-01-03T14:26:54Z",
-            "traceId": "2d66bacf4a5fd7bc",
-            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.46a41df0ab0514f11c0811056832c3225e06c8e11824f27c7e5517ca5cfc57fe.f492d77e93^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "traceId": "ec344171a7527e42",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.46a41df0ab0514f11c0811056832c3225e06c8e11824f27c7e5517ca5cfc57fe.2011b8ab51^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
             "files": [
                 "LAB - Caso di Test 1.pdf"
             ]

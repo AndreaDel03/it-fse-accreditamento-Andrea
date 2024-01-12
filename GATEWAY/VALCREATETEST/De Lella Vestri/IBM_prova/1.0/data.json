@@ -1,0 +1,25 @@
+{ "appVendor": "subject",
+    "appID": "app",
+    "appVersion": "1.0",
+    "email": "magiu2012@me.com",
+	"results": [
+		{
+            "id": 377,
+            "ts": "2024-01-03T15:46:55Z",
+            "traceId": "e8e8a13f6d4f2048",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.4fe63cbb9c3a4b0e1a176410073a8f6d898c4d08105da3f24539b19c55da5a38.24aed2d2c2^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "SIGNED_LAB1.pdf"
+            ]
+        },
+	{
+            "id": 382,
+            "ts": "2024-01-03T15:46:55Z",
+            "traceId": "a33480f2fb92aa5e",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.b0f3ffcf25ce2aafc7dc901e2febc51f43837f4ca0fe3b6d1b02194e9047b6db.597b9ed840^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "SIGNED_LDO1.pdf"
+            ]
+        }
+]
+}

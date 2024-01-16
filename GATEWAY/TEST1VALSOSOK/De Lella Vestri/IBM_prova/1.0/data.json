@@ -6,10 +6,10 @@
 		{
             "id": 380,
             "ts": "2024-01-03T14:26:54Z",
-            "traceId": "fe1b196961bac26b",
-            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.97bb3fc5bee3032679f4f07419e04af6375baafa17024527a98ede920c6812ed.d45061ddcd^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "traceId": "c06bc39b2abe1945",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.46a41df0ab0514f11c0811056832c3225e06c8e11824f27c7e5517ca5cfc57fe.89372f5de5^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
             "files": [
-                "LAB_test1.pdf"
+                "LAB - Caso di Test 1.pdf"
             ]
         }
 ]

@@ -6,10 +6,73 @@
 		{
             "id": 380,
             "ts": "2024-01-03T14:26:54Z",
-            "traceId": "c06bc39b2abe1945",
-            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.46a41df0ab0514f11c0811056832c3225e06c8e11824f27c7e5517ca5cfc57fe.89372f5de5^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "traceId": "",
+            "workflowInstanceId": "",
             "files": [
-                "LAB - Caso di Test 1.pdf"
+                "LAB_test1.pdf"
+            ]
+        },
+	{
+            "id": 385,
+            "ts": "2024-01-03T14:26:54Z",
+            "traceId": "",
+            "workflowInstanceId": "",
+            "files": [
+                "LDO_test1.pdf"
+            ]
+        },
+	{
+            "id": 390,
+            "ts": "2024-01-03T14:26:54Z",
+            "traceId": "",
+            "workflowInstanceId": "",
+            "files": [
+                "RAD_test1.pdf"
+            ]
+        },
+	{
+            "id": 395,
+            "ts": "2024-01-03T14:26:54Z",
+            "traceId": "",
+            "workflowInstanceId": "",
+            "files": [
+                "CERT_VACC_test1.pdf"
+            ]
+        },
+	{
+            "id": 400,
+            "ts": "2024-01-03T14:26:54Z",
+            "traceId": "",
+            "workflowInstanceId": "",
+            "files": [
+                "SING_VACC_test1.pdf"
+            ]
+        },
+	{
+            "id": 405,
+            "ts": "2024-01-03T14:26:54Z",
+            "traceId": "",
+            "workflowInstanceId": "",
+            "files": [
+                "VPS_test1.pdf"
+            ]
+        },
+	{
+            "id": 410,
+            "ts": "2024-01-03T14:26:54Z",
+            "traceId": "",
+            "workflowInstanceId": "",
+            "files": [
+                "RSA_test1.pdf"
+            ]
+        },
+	{
+            "id": 415,
+            "ts": "2024-01-03T14:26:54Z",
+            "traceId": "",
+            "workflowInstanceId": "",
+            "files": [
+                "PSS_test1.pdf"
             ]
         }
 ]

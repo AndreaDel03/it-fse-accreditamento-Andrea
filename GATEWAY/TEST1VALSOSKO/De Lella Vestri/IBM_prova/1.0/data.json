@@ -1,0 +1,15 @@
+{ "appVendor": "De Lella Vestri",
+    "appID": "IBM_prova",
+    "appVersion": "1.0",
+    "email": "magiu2012@me.com",
+	"results": [
+		{
+            "id": 381,
+            "ts": "2024-01-03T14:26:54Z",
+            "traceId": "5adaecae5cd2318e",
+            "files": [
+                "LAB_test1.pdf"
+            ]
+        	}
+		]
+}
